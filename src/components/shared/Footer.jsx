@@ -137,7 +137,7 @@ const Footer = ({ className }) => {
         {/* Bottom Section */}
         <div className="border-t border-gray-500 mt-8 pt-6 flex flex-col md:flex-row md:justify-between text-xs text-gray-500">
           <div className="mb-4 md:mb-0">
-            <p>Copyright | Addictsnation 2025</p>
+            <p>Copyright | Addictsnation 2025 | Designed and Developed By <a href="https://aerozefcreations.com/" className="text-gray-50">Aerozef Creations</a></p>
           </div>
           <div className="flex flex-wrap gap-x-4 gap-y-2">
             {footerBottomLinks.map((link) => (
